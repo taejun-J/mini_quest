@@ -1,3 +1,6 @@
 자격증 : adsp,sqld
 대외활동 : 카카오테크 부트캠프, UMC대학연합동아리, 창업동아리
-사용기술 : Java, JavaScript, SQL
+사용기술 : Java, JavaScript, SQL경력 = "신입",
+학력 = "4년제대졸",
+이름 = "장태준",
+나이 = "26"
